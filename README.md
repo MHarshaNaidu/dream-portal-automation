@@ -443,4 +443,4 @@ The project focuses on:
 
 ## Author
 
-**Harsha Vardhan**
+**Mullagura HarshaVardhan Naidu**
